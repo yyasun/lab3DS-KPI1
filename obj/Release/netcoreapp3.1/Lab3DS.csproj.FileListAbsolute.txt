@@ -1,0 +1,13 @@
+C:\Users\BattleStation\source\repos\Lab3DS\Lab3DS\bin\Release\netcoreapp3.1\Lab3DS.exe
+C:\Users\BattleStation\source\repos\Lab3DS\Lab3DS\bin\Release\netcoreapp3.1\Lab3DS.deps.json
+C:\Users\BattleStation\source\repos\Lab3DS\Lab3DS\bin\Release\netcoreapp3.1\Lab3DS.runtimeconfig.json
+C:\Users\BattleStation\source\repos\Lab3DS\Lab3DS\bin\Release\netcoreapp3.1\Lab3DS.runtimeconfig.dev.json
+C:\Users\BattleStation\source\repos\Lab3DS\Lab3DS\bin\Release\netcoreapp3.1\Lab3DS.dll
+C:\Users\BattleStation\source\repos\Lab3DS\Lab3DS\bin\Release\netcoreapp3.1\Lab3DS.pdb
+C:\Users\BattleStation\source\repos\Lab3DS\Lab3DS\obj\Release\netcoreapp3.1\Lab3DS.csprojAssemblyReference.cache
+C:\Users\BattleStation\source\repos\Lab3DS\Lab3DS\obj\Release\netcoreapp3.1\Lab3DS.csproj.CoreCompileInputs.cache
+C:\Users\BattleStation\source\repos\Lab3DS\Lab3DS\obj\Release\netcoreapp3.1\Lab3DS.AssemblyInfoInputs.cache
+C:\Users\BattleStation\source\repos\Lab3DS\Lab3DS\obj\Release\netcoreapp3.1\Lab3DS.AssemblyInfo.cs
+C:\Users\BattleStation\source\repos\Lab3DS\Lab3DS\obj\Release\netcoreapp3.1\Lab3DS.dll
+C:\Users\BattleStation\source\repos\Lab3DS\Lab3DS\obj\Release\netcoreapp3.1\Lab3DS.pdb
+C:\Users\BattleStation\source\repos\Lab3DS\Lab3DS\obj\Release\netcoreapp3.1\Lab3DS.genruntimeconfig.cache
