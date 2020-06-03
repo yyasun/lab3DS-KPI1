@@ -11,8 +11,7 @@ namespace Lab3DS
     public class Dictionary
     {
         LinkedList<KeyValuePair<string, string>>[] arr;
-        long count=0;
-        long popSlotsCount=0;
+        long count;
         const int A = 5;
         const int startAmount = 8;
         public Dictionary()
@@ -30,7 +29,7 @@ namespace Lab3DS
             set
             {
                 count++;
-                if (count > popSlotsCount * A)
+                if (count > arr.Length * A)
                 {
                     Rehash(arr.Length * 2);
                 }
@@ -53,7 +52,7 @@ namespace Lab3DS
                 arr[i].Remove(a);
                 break;
             }
-            if (count < (popSlotsCount * A) / 4)
+            if (count < (arr.Length * A) / 4)
             {
                 Rehash(arr.Length / 4);
             }
@@ -63,10 +62,7 @@ namespace Lab3DS
         {
             var h = Hash(PreHash(key), Arr.Length);
             if (Arr[h] == null)
-            {
-                popSlotsCount++;
                 Arr[h] = new LinkedList<KeyValuePair<string, string>>();
-            }
             Arr[h].AddFirst(new KeyValuePair<string, string>(key, value));
         }
         private void Rehash(int newLen)
